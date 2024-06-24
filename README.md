@@ -1,6 +1,7 @@
 # GAP
 
 **The code of this repository is constantly being updated...**
+**Our code is based on the [KnowPrompt](https://github.com/zjunlp/KnowPrompt)**
 
 Please look forward to it!
 
