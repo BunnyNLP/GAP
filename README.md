@@ -1,7 +1,8 @@
 # GAP: A novel Generative context-Aware Prompt-tuning method for relation extraction
 
 **The code of this repository is constantly being updated...**
-**Our code is based on the [KnowPrompt](https://github.com/zjunlp/KnowPrompt)**
+
+**Our code is based on the [KnowPrompt](https://github.com/zjunlp/KnowPrompt) .**
 
 Our code consists of three crucial modules: 
   1. A pretrained prompt generator module that extracts or generates the relation triggers from the context and embeds them into the prompt tokens;
