@@ -32,6 +32,21 @@ Please cite our paper and kindly give a star for this repository if you use this
 sh ./scripts/semeval.sh
 ```
 
+### TACRED
+```
+sh ./scripts/tacred.sh
+```
+
+### TACREV
+```
+sh ./scripts/tacrev.sh
+```
+
+### Re-TACRED
+```
+sh ./scripts/retacred.sh
+```
+
 ## Citation
 ```
 @article{chen2024gap,
