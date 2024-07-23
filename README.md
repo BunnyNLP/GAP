@@ -23,3 +23,15 @@ Zhenbin Chen, Zhixin Li, Ying Huang, Zhenjun Tang.
 
 
 Please cite our paper and kindly give a star for this repository if you use this code.
+
+
+## Usage
+
+### Semeval
+````
+sh ./scripts/semeval.sh
+```
+
+## Citation
+
+
