@@ -28,10 +28,21 @@ Please cite our paper and kindly give a star for this repository if you use this
 ## Usage
 
 ### Semeval
-````
+```
 sh ./scripts/semeval.sh
 ```
 
 ## Citation
+```
+@article{chen2024gap,
+  title={GAP: A novel Generative context-Aware Prompt-tuning method for relation extraction},
+  author={Chen, Zhenbin and Li, Zhixin and Zeng, Yufei and Zhang, Canlong and Ma, Huifang},
+  journal={Expert Systems with Applications},
+  volume={248},
+  pages={123478},
+  year={2024},
+  publisher={Elsevier}
+}
+```
 
 
